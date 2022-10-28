@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/952855787628269588/1032608729448857630/standard.gif"  width="1000" alt="my-banner"/>
+  <img src="https://cdn.discordapp.com/attachments/952855787628269588/1035481355083075654/standard.gif"  width="1000" alt="my-banner"/>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
